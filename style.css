@@ -92,3 +92,13 @@ ul {
     gap: 0.5rem;
     justify-content: center;
 }
+
+h1:hover{
+    color:white;
+    text-shadow: 0 0 10px rgb(105, 0, 96),0 0 20px #69005b, 0 0 30px #69004a, 0 0 40px #69004a, 0 0 50px rgb(105, 0, 96);
+}
+
+p:hover{
+    color: white;
+    text-shadow: 0 0 10px rgb(105, 0, 96),0 0 20px rgb(105, 0, 96), 0 0 30px rgb(105, 0, 96), 0 0 40px rgb(105, 0, 96), 0 0 50px rgb(105, 0, 96);
+}
